@@ -45,14 +45,6 @@
         ],
         audio: [
           {
-            name: '骑在银龙的背上',
-            artist: 'MISIA',
-            url: '/music/骑在银龙的背上 (银の龙の背に乗って) (Live) - MISIA.flac(无损) (1).mp3',
-            cover: '/img/骑在银龙的背上.jpg'
-          }
-        ],
-        audio: [
-          {
             name: 'Butter-Fly',
             artist: '和田光司',
             url: '/music/Butter-Fly - 和田光司(无损）.flac',
