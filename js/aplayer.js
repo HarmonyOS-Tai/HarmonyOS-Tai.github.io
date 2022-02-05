@@ -8,9 +8,10 @@
         fixed: true,
         autoplay: false,
         loop: 'all',
-        order: 'random',
+        order: 'list',
         theme: '#36282b',
         preload: 'auto',
+        listFolded: 'true',
         audio: [
           {
             name: '孤勇者',
@@ -87,7 +88,7 @@
           {
             name: '卡农',
             artist: '无',
-            url: '/music/卡农.MP3',
+            url: '/music/卡农.mp3',
             cover: '/img/卡农.jpg'
           }
         ],
